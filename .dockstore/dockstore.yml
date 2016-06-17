@@ -1,7 +1,7 @@
 template: Hello, %s!
-quayClientID: <fill me in>
+quayClientID: 1KPJGHD0555PSR9L3OZV
 # port should match the port where the UI is being hosted, 9000 by default
-quayRedirectURI: http://localhost:9000/accounts
+quayRedirectURI: http://localhost:9000/auth/quay.io
 githubClientID: 2e427151f8a0b3ff2b62
 githubClientSecret: 0dc98d0fac46b380be2a5dbbb381cc964862346d
 # port should match the port where the UI is being hosted, 9000 by default
